@@ -1,0 +1,15 @@
+/Users/artembelokolenko/Documents/учеба/HomeWorkPlSeminar3/HomeWork23/bin/Debug/net6.0/HomeWork23
+/Users/artembelokolenko/Documents/учеба/HomeWorkPlSeminar3/HomeWork23/bin/Debug/net6.0/HomeWork23.deps.json
+/Users/artembelokolenko/Documents/учеба/HomeWorkPlSeminar3/HomeWork23/bin/Debug/net6.0/HomeWork23.runtimeconfig.json
+/Users/artembelokolenko/Documents/учеба/HomeWorkPlSeminar3/HomeWork23/bin/Debug/net6.0/HomeWork23.dll
+/Users/artembelokolenko/Documents/учеба/HomeWorkPlSeminar3/HomeWork23/bin/Debug/net6.0/HomeWork23.pdb
+/Users/artembelokolenko/Documents/учеба/HomeWorkPlSeminar3/HomeWork23/obj/Debug/net6.0/HomeWork23.csproj.AssemblyReference.cache
+/Users/artembelokolenko/Documents/учеба/HomeWorkPlSeminar3/HomeWork23/obj/Debug/net6.0/HomeWork23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artembelokolenko/Documents/учеба/HomeWorkPlSeminar3/HomeWork23/obj/Debug/net6.0/HomeWork23.AssemblyInfoInputs.cache
+/Users/artembelokolenko/Documents/учеба/HomeWorkPlSeminar3/HomeWork23/obj/Debug/net6.0/HomeWork23.AssemblyInfo.cs
+/Users/artembelokolenko/Documents/учеба/HomeWorkPlSeminar3/HomeWork23/obj/Debug/net6.0/HomeWork23.csproj.CoreCompileInputs.cache
+/Users/artembelokolenko/Documents/учеба/HomeWorkPlSeminar3/HomeWork23/obj/Debug/net6.0/HomeWork23.dll
+/Users/artembelokolenko/Documents/учеба/HomeWorkPlSeminar3/HomeWork23/obj/Debug/net6.0/refint/HomeWork23.dll
+/Users/artembelokolenko/Documents/учеба/HomeWorkPlSeminar3/HomeWork23/obj/Debug/net6.0/HomeWork23.pdb
+/Users/artembelokolenko/Documents/учеба/HomeWorkPlSeminar3/HomeWork23/obj/Debug/net6.0/HomeWork23.genruntimeconfig.cache
+/Users/artembelokolenko/Documents/учеба/HomeWorkPlSeminar3/HomeWork23/obj/Debug/net6.0/ref/HomeWork23.dll
